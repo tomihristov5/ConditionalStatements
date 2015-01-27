@@ -28,7 +28,7 @@ class DigitAsWord
                 break;
             case 5: Console.WriteLine("Five!");
                 break;
-            case 6: Console.WriteLine("Sis!");
+            case 6: Console.WriteLine("Six!");
                 break;
             case 7: Console.WriteLine("Seven!");
                 break;
