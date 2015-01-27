@@ -11,6 +11,7 @@ class BonusScore
 {
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.DarkRed;
         Console.Write("Enter score from 1 to 9: ");
         int score = int.Parse(Console.ReadLine());
         if (score >= 1 && score <= 3)

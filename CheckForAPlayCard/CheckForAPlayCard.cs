@@ -9,6 +9,7 @@ class CheckForAPlayCard
 {
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.DarkRed;
         // Using an array to put the designated card signs in it
         string[] deckOfCards = new string[13] { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A" };
         Console.Write("Enter a playing card: ");

@@ -8,6 +8,7 @@ class ExchangeIfGreater
 {
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.DarkRed;
         Console.Write("Enter first variable: ");
         double a = double.Parse(Console.ReadLine());
         Console.Write("Enter second variable: ");
