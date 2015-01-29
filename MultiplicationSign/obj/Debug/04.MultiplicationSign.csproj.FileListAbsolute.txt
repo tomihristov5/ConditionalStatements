@@ -1,0 +1,6 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

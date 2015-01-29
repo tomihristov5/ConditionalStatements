@@ -1,0 +1,6 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\obj\Debug\09.IntDoubleOrString.csprojResolveAssemblyReference.cache
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\obj\Debug\IntDoubleOrString.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\IntDoubleOrString\obj\Debug\IntDoubleOrString.pdb

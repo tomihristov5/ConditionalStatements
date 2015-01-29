@@ -1,0 +1,5 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

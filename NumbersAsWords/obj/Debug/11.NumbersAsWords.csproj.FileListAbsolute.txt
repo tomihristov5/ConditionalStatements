@@ -1,0 +1,6 @@
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\obj\Debug\11.NumbersAsWords.csprojResolveAssemblyReference.cache
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+C:\Users\hrist0v\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumbersAsWords\obj\Debug\NumbersAsWords.pdb
