@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Sort3NumbersWithNestedIf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DigitAsWord", "DigitAsWord\08.DigitAsWord.csproj", "{0899B61C-988C-4E6C-8AB9-6C29AA929B9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.IntDoubleOrString", "IntDoubleOrString\09.IntDoubleOrString.csproj", "{1C984EA6-181A-4EBB-B899-DD8DEF618C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BeerTime", "BeerTime\10.BeerTime.csproj", "{39DAA4B9-779D-47E6-B313-27F1777A9ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{0899B61C-988C-4E6C-8AB9-6C29AA929B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0899B61C-988C-4E6C-8AB9-6C29AA929B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0899B61C-988C-4E6C-8AB9-6C29AA929B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C984EA6-181A-4EBB-B899-DD8DEF618C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C984EA6-181A-4EBB-B899-DD8DEF618C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C984EA6-181A-4EBB-B899-DD8DEF618C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C984EA6-181A-4EBB-B899-DD8DEF618C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DAA4B9-779D-47E6-B313-27F1777A9ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DAA4B9-779D-47E6-B313-27F1777A9ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DAA4B9-779D-47E6-B313-27F1777A9ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DAA4B9-779D-47E6-B313-27F1777A9ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
